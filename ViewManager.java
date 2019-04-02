@@ -1,3 +1,4 @@
+//THIS IS JUST THE BASIC VIEWMANAGER, I WILL APPEND IT IMMEDIATELY.
 package view;
 
 import javafx.scene.Scene;
